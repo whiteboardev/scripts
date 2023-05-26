@@ -3,6 +3,7 @@
 sudo apt update -y && sudo apt upgrade -y;
 sudo apt install -y net-tools \
                  openssh-server \
+                 openssh-client \
                  neofetch \
                  curl \
                  httpie \
@@ -28,4 +29,6 @@ sudo apt install -y net-tools \
                  python3-fontforge \
                  fontforge \
                  build-essential \
-                 tmux
+                 tmux \
+                 timeshift \
+                 fish;
