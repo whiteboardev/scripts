@@ -31,4 +31,11 @@ sudo apt install -y net-tools \
                  build-essential \
                  tmux \
                  timeshift \
+                 suckless-tools \
+                 bspwm \
+                 sxhkd \
+                 polybar \
+                 picom \
+                 cpu-checker \
+                 conky-all \
                  fish;
